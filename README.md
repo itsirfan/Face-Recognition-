@@ -34,8 +34,12 @@ The face detection will have a huge advantage in our coming times.
 
 3.In parks or public places, If a person having a criminal background will be identified out security system can easily identify and trace, so others can be safe and secure.
  
+ 
+ 
+ <p align="center">
+  <img width="460" height="300" src="https://i.ibb.co/C09MPRV/Screenshot-365.png">
+</p>
 
-![Face Detetion](https://i.ibb.co/C09MPRV/Screenshot-365.png)
 
 
 <p align ="center">
